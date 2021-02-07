@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: black;
+    height: 80px;
+}
+div.nav ul.nav-in{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+div.nav ul.nav-in a{
+    display: inline;
+    color: blanchedalmond;
+    text-decoration: none;
+    float: right; 
+   /* padding: 35px 25px;*/
+   padding-right: 60px;
+   padding-top: 30px;
+}
+div.nav a img{
+    /*padding: 16px 16px;*/
+    padding-left: 90px;  /*moving from left*/
+    padding-top: 15px;   /*moving to top*/
+}
+div.bm{
+background-image: url("D:/Courses/my courses/my courses/nti/task2/images/img-2.jpg");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: 100%;
+}
+div.bm img{
+    padding-top: 250px;
+    padding-left: 50px;
+}
+div.bm div.p1 > h2{
+    color: blanchedalmond;
+    padding-left: 50px;
+}
+div.form1{
+    width: 300px;
+    padding-right: 50px;
+    padding-top: 250px;
+}
+div.bm div.form1 div.pre{
+display: inline-block;
+}
+div.bm div.form1 p .f{
+    color: orangered;
+}
+div.form{
+  /*  border: 1px solid black;*/
+    
+}
+input[type=submit] {
+    background-color: #bb600b;}
+    div.bm div.p1 > p{
+        color: blanchedalmond;
+        /*padding-bottom: 5px;*/
+        padding-left: 50px;
+        padding-bottom: 30px;
+    }
+div.bm div.form1 form{
+    height: 700px;
+    background-color: blanchedalmond;
+border: 1px solid black;
+border-radius:15px;
+}
+div.bm div.p1 div.btn a{
+    border: 3px solid wheat;
+    border-radius: 15px;
+    color: wheat;
+    text-decoration: none;
+    padding: 20px;
+}
+div.bm div.p1  div.btn{
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+div.secpart{
+    padding-left: 100px;
+}
+div.secpart p{
+    padding-bottom: -15px;
+}
+div.ics{
+    display: inline;
+    padding-right: 10%;
+}
+div.ics img{
+opacity: 0.3;
+padding: 10px;
+}
